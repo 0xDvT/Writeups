@@ -1,9 +1,14 @@
 {
-  "generated": "2026-09-29T17:33:19Z",
+  "generated": "2026-10-12T16:39:12Z",
   "ctfs": [
     {
       "slug": "SunshineCTF 2026",
       "name": "SunshineCTF 2026",
+      "year": "2026"
+    },
+    {
+      "slug": "FortID CTF 2026",
+      "name": "FortID CTF 2026",
       "year": "2026"
     },
     {
@@ -13,6 +18,31 @@
     }
   ],
   "writeups": [
+    {
+      "id": "2026/FortID CTF 2026/meteor_shower",
+      "path": "writeups/2026/FortID CTF 2026/meteor_shower.md",
+      "title": "Meteor Shower",
+      "authors": [
+        "s0g3king"
+      ],
+      "date": "2026-10-10",
+      "year": "2026",
+      "ctf": "FortID CTF 2026",
+      "category": "Rev",
+      "categories": [
+        "Rev",
+        "FortID CTF 2026"
+      ],
+      "tags": [
+        "nes",
+        "6502",
+        "ghidra",
+        "bacon cipher"
+      ],
+      "partial_solve": false,
+      "used_ai": false,
+      "excerpt": "We are given a NES ROM:"
+    },
     {
       "id": "2026/SunshineCTF 2026/total_recall",
       "path": "writeups/2026/SunshineCTF 2026/total_recall.md",
