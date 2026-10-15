@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12T16:39:12Z",
+  "generated": "2026-10-15T12:58:37Z",
   "ctfs": [
     {
       "slug": "SunshineCTF 2026",
@@ -42,6 +42,71 @@
       "partial_solve": false,
       "used_ai": false,
       "excerpt": "We are given a NES ROM:"
+    },
+    {
+      "id": "2026/FortID CTF 2026/doctor_bye_bye",
+      "path": "writeups/2026/FortID CTF 2026/doctor_bye_bye.md",
+      "title": "Doctor Bye Bye",
+      "authors": [
+        "dax"
+      ],
+      "date": "2026-10-10",
+      "year": "2026",
+      "ctf": "FortID CTF 2026",
+      "category": "Web",
+      "categories": [
+        "Web",
+        "FortID CTF 2026"
+      ],
+      "tags": [
+        "sql injection"
+      ],
+      "partial_solve": false,
+      "used_ai": false,
+      "excerpt": "We have a website which uses a MySQL database to store data about doctors."
+    },
+    {
+      "id": "2026/FortID CTF 2026/desbox",
+      "path": "writeups/2026/FortID CTF 2026/desbox.md",
+      "title": "DESBox",
+      "authors": [
+        "dax"
+      ],
+      "date": "2026-10-10",
+      "year": "2026",
+      "ctf": "FortID CTF 2026",
+      "category": "Crypto",
+      "categories": [
+        "Crypto",
+        "FortID CTF 2026"
+      ],
+      "tags": [
+        "des",
+        "3des"
+      ],
+      "partial_solve": false,
+      "used_ai": false,
+      "excerpt": "When we connect to the challenge, we see something imitating the well-known DOS emulator, DOSBox. We also see a directory listing, including a FLAG.BIN. Unfortunately, this is just…"
+    },
+    {
+      "id": "2026/FortID CTF 2026/baby_misc",
+      "path": "writeups/2026/FortID CTF 2026/baby_misc.md",
+      "title": "Baby Misc",
+      "authors": [
+        "dax"
+      ],
+      "date": "2026-10-10",
+      "year": "2026",
+      "ctf": "FortID CTF 2026",
+      "category": "Intro",
+      "categories": [
+        "Intro",
+        "FortID CTF 2026"
+      ],
+      "tags": [],
+      "partial_solve": false,
+      "used_ai": false,
+      "excerpt": "We're given a huge zip file which took more than 3mins to unzip on my system!! with hundreds of nested directories, each with a numerical name."
     },
     {
       "id": "2026/SunshineCTF 2026/total_recall",
